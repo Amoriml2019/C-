@@ -1,0 +1,14 @@
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\bin\Debug\net8.0\Banco.exe
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\bin\Debug\net8.0\Banco.deps.json
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\bin\Debug\net8.0\Banco.dll
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\bin\Debug\net8.0\Banco.pdb
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\obj\Debug\net8.0\Banco.dll
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\obj\Debug\net8.0\refint\Banco.dll
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\obj\Debug\net8.0\Banco.pdb
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+c:\Users\Lucas Amorim\Documents\Programação em C#\LocalizaLabs .NET Developer\Desafios\Projeto de transferência bancária\Banco\obj\Debug\net8.0\ref\Banco.dll
